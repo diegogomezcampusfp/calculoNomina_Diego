@@ -1,2 +1,2 @@
 # calculoNomina_Diego
-Código en Pseint
+Instrucciones para la construcción del código
